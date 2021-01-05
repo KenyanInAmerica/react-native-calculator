@@ -1,4 +1,3 @@
-# React Native Calculator
+## React Native Calculator
 
-
-### A mobile application that replicates the IOS calculator.
+A simple cross platform (iOS and Android) React Native calculator app. 
